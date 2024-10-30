@@ -1,4 +1,4 @@
-<h2>Hi, I’m Charlie! 👋</h2>
+<h2>Hi, I’m Charlie!</h2>
 
 <p>
 〽️ CS & EE @ University of Michigan
