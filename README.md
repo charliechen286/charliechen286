@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 <p>
 〽️ CS & EE @ University of Michigan<br>
-💻 Passionate about future technologies<br>
+💻 Passionate about technological innovations<br>
 🧩 Rubik's cube and twisty puzzle enthusiast<br>
 🌐 <a href=www.linkedin.com/in/charliechen286 target="_blank">www.linkedin.com/in/charliechen286</a><br>
 ✉️ @charliechen286@gmail.com
