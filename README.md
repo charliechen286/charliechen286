@@ -8,5 +8,5 @@ You can click the Preview link to take a look at your changes.
 〽️ CS & EE @ University of Michigan
 💻 Passionate about future technologies
 🧩 Rubik's cube and twisty puzzle enthusiast
-🌐 <a href=www.linkedin.com/in/charliechen286>
+🌐 <a href=www.linkedin.com/in/charliechen286 target="_blank">www.linkedin.com/in/charliechen286</a>
 ✉️ @charliechen286@gmail.com
