@@ -1,9 +1,9 @@
-<h1>Hi, I’m Charlie! 👋</h1>
-<p>〽️ CS & EE @ University of Michigan</p>
-<p>💻 Passionate about future technologies</p>
-<p>🧩 Rubik's cube and twisty puzzle enthusiast</p>
-<p>🌐 www.linkedin.com/in/charliechen286</p>
-<p>✉️ @charliechen286@gmail.com</p>
+<h2>Hi, I’m Charlie! 👋</h2>
+<body>〽️ CS & EE @ University of Michigan</body>
+<body>💻 Passionate about future technologies</body>
+<body>🧩 Rubik's cube and twisty puzzle enthusiast</body>
+<body>🌐 www.linkedin.com/in/charliechen286</body>
+<body>✉️ @charliechen286@gmail.com</body>
 
 <!---
 charliechen286/charliechen286 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
