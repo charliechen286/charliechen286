@@ -1,4 +1,4 @@
-## Hi, I’m Charlie!
+## Hi, I’m Charlie! 👋
 
 <!---
 charliechen286/charliechen286 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
